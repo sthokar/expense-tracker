@@ -8,16 +8,13 @@ A simple, easy-to-use app for tracking and visualizing your expenses.
 
 # Getting started
 1. Clone the repository
-
-  $ git clone https://github.com/sthokar/expense-tracker.git
+$ git clone https://github.com/sthokar/expense-tracker.git
 
 2. Install dependencies
-
-  $ npm install
+$ npm install
 
 3. Start the development server
-
-  $ npm start
+$ npm start
 
 4. Open your browser to http://localhost:3000
 
