@@ -6,19 +6,8 @@ A simple, easy-to-use app for tracking and visualizing your expenses.
 - View a summary of your expenses with a graph.
 - Filter expenses by year.
 
-# Getting started
-1. Clone the repository
+## Checkout the awesome app
+- https://expense-tracker-4da8b.web.app/
 
-$ git clone https://github.com/sthokar/expense-tracker.git
-
-2. Install dependencies
-
-$ npm install
-
-3. Start the development server
-
-$ npm start
-
-4. Open your browser to http://localhost:3000
 
 
